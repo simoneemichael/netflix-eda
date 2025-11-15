@@ -15,33 +15,33 @@ This project demonstrates data cleaning, visualization, and analysis skills
 THE SUMMARY:
 ## Key Steps and Findings:
 
-1. Data Cleaning
+##1. Data Cleaning
 Removed duplicates and filled missing values.
 Addressed missing data in columns director, cast, country, rating, date_added, and duration.
 Result: no missing values remain.
 
-2. Movies vs TV Shows
-## Movies: 6131 (~70%), TV Shows: 2676 (~30%).
+##2. Movies vs TV Shows
+Movies: 6131 (~70%), TV Shows: 2676 (~30%).
 Insight: Netflix focuses more on Movies, reflecting strategic content distribution.
 
-3.Top 10 Genres
-## Top genres: International Movies (31%), Dramas (28%), Comedies (19%), International TV Shows (15%).
+##3.Top 10 Genres
+Top genres: International Movies (31%), Dramas (28%), Comedies (19%), International TV Shows (15%).
 Insight: Drama and International Movies dominate content, highlighting Netflix’s storytelling and global reach strategy.
 
-4. Yearly Release Trend
-## Sharp increase in titles after 2015, with 2018 having the most releases (1,147 titles).
+##4. Yearly Release Trend
+Sharp increase in titles after 2015, with 2018 having the most releases (1,147 titles).
 Insight: Release of Netflix Originals in 2015 and content expansion drive recent growth.
 
-5. Top 10 Countries
-## United States leads with 2818 titles (~32%), followed by India (972, ~11%) and UK (419, ~5%).
+##5. Top 10 Countries
+United States leads with 2818 titles (~32%), followed by India (972, ~11%) and UK (419, ~5%).
 Insight: Shows global content strategy, but a notable portion (~9%) has unknown origin.
 
-6. Ratings Breakdown
-## Most content is aimed at mature audiences: TV-MA (36%) and TV-14 (25%).
+##6. Ratings Breakdown
+Most content is aimed at mature audiences: TV-MA (36%) and TV-14 (25%).
 ## Family friendly content accounts for ~16%.
 Insight: Ratings help understand target audiences and guide recommendation systems.
 
-7. Genre vs Type Analysis
+##7. Genre vs Type Analysis
 Movies dominate genres like International Movies, Dramas, Romantic Movies.
 TV Shows dominate International TV Shows and TV Dramas.
 Insight: Genre vs type distribution informs content strategy and audience segmentation.
