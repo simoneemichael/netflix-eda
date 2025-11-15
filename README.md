@@ -38,7 +38,7 @@ Insight: Shows global content strategy, but a notable portion (~9%) has unknown 
 
 ## 6. Ratings Breakdown
 Most content is aimed at mature audiences: TV-MA (36%) and TV-14 (25%).
-## Family friendly content accounts for ~16%.
+Family friendly content accounts for ~16%.
 Insight: Ratings help understand target audiences and guide recommendation systems.
 
 ## 7. Genre vs Type Analysis
